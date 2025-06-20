@@ -29,57 +29,68 @@ The official URL `vizio.com/setup <https://www.vizio.com/setup>`_ is designed to
 2. Step-by-Step Activation Using vizio.com/setup
 -------------------------------------------------
 
-✅ **Step 1: Unpack and Connect Your TV**  
+**Step 1: Unpack and Connect Your TV**  
+
 Place your TV securely, plug it in, and turn it on.
 
-✅ **Step 2: Follow On-Screen Instructions**  
+**Step 2: Follow On-Screen Instructions**  
+
 Choose language, region, and connect to Wi-Fi.
 
-✅ **Step 3: Go to vizio.com/setup**  
+**Step 3: Go to vizio.com/setup**  
+
 Use a smartphone, tablet, or computer to access the activation page.
 
-✅ **Step 4: Enter the Activation Code**  
+**Step 4: Enter the Activation Code**  
+
 Type the code shown on your TV into the field on the setup page and click **Submit**.
 
-✅ **Step 5: Sign In or Create a VIZIO Account**  
+**Step 5: Sign In or Create a VIZIO Account**  
+
 Sign in or create a free account to continue.
 
-✅ **Step 6: Finish Setup**  
+**Step 6: Finish Setup**  
+
 Link apps (Netflix, Disney+, etc.), pair your phone with the VIZIO Mobile App, and configure voice assistants like Alexa or Google Assistant.
 
 3. Why Use vizio.com/setup?
 ---------------------------
 
-✨ **Secure Activation** – Ensure your TV is connected and verified  
-📱 **SmartCast Access** – Instantly launch streaming apps and cast from mobile  
-🛠️ **Automatic Updates** – Keep software and apps up-to-date  
-🔄 **Personalized Experience** – Get app suggestions and content preferences
+ **Secure Activation** – Ensure your TV is connected and verified  
+ **SmartCast Access** – Instantly launch streaming apps and cast from mobile  
+ **Automatic Updates** – Keep software and apps up-to-date  
+ **Personalized Experience** – Get app suggestions and content preferences
 
 4. Key Benefits of Using vizio.com/setup
 ----------------------------------------
 
-- ✅ Easy and secure activation process  
-- ✅ Connects your TV to the VIZIO Mobile App  
-- ✅ Customize apps and services from the start  
-- ✅ Supports voice control with Alexa or Google Assistant  
-- ✅ Ensures smooth integration with streaming services
+-  Easy and secure activation process  
+-  Connects your TV to the VIZIO Mobile App  
+-  Customize apps and services from the start  
+-  Supports voice control with Alexa or Google Assistant  
+-  Ensures smooth integration with streaming services
 
 FAQs
 ====
 
 **Q1. Do I need to use vizio.com/setup for every VIZIO device?**  
+
 No, only newer Smart TVs and soundbars that support SmartCast typically require this step.
 
 **Q2. Is there a fee for using vizio.com/setup?**  
+
 No, it’s completely free and part of your device’s activation.
 
 **Q3. What if I don’t have a VIZIO account?**  
+
 You can create one during setup. It takes just a minute.
 
 **Q4. Can I skip the setup process?**  
+
 You can skip it, but key features like app linking, casting, and personalization may not work.
 
 **Q5. Can I use my phone for setup?**  
+
 Yes! The vizio.com/setup site is mobile-friendly and works on phones and tablets.
 
 My Experience with vizio.com/setup
