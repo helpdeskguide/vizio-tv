@@ -10,8 +10,7 @@ Visit `vizio.com/setup <https://www.vizio.com/setup>`_ to activate your VIZIO Sm
 
 .. image:: Button.png
    :alt: vizio.com/setup
-   :target: https://vizio.com/setup
-
+   :target: https://fm.ci/?aHR0cHM6Ly92aXppb2RldmljZXNldHVwLWhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 .. raw:: html
 
     </div>
@@ -24,7 +23,7 @@ VIZIO TVs are popular for their 4K resolution, SmartCast streaming, and voice as
 1. What Is vizio.com/setup?
 ---------------------------
 
-The official URL `vizio.com/setup <https://www.vizio.com/setup>`_ is designed to help users activate their VIZIO Smart TV or Sound Bar. During setup, your device shows a unique code. You’ll visit the site, enter that code, and link your VIZIO account or streaming services.
+The official URL `vizio.com/setup <#>`_ is designed to help users activate their VIZIO Smart TV or Sound Bar. During setup, your device shows a unique code. You’ll visit the site, enter that code, and link your VIZIO account or streaming services.
 
 2. Step-by-Step Activation Using vizio.com/setup
 -------------------------------------------------
@@ -101,4 +100,4 @@ As someone who recently upgraded to a VIZIO 4K Smart TV, I found the setup extre
 Conclusion
 ==========
 
-Setting up your VIZIO Smart TV or Sound Bar through `vizio.com/setup <https://www.vizio.com/setup>`_ is the fastest way to unlock its full potential. From streaming to voice control, the activation process ensures you get the best experience right out of the box.
+Setting up your VIZIO Smart TV or Sound Bar through `vizio.com/setup <#>`_ is the fastest way to unlock its full potential. From streaming to voice control, the activation process ensures you get the best experience right out of the box.
