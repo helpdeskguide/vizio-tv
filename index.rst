@@ -10,7 +10,7 @@ Visit `vizio.com/setup <https://www.vizio.com/setup>`_ to activate your VIZIO Sm
 
 .. image:: Button.png
    :alt: vizio.com/setup
-   :target: https://viziocom-setup.github.io/
+   :target:  https://pre.im/?5AjQgoeFAldo4e5r6ObI2nEE8szYCbpWP1o7wgiMdhnQ8avRFDIrL9ftLfOKYDjFEwRF6x4FWIZg2vfOe
 .. raw:: html
 
     </div>
